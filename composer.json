@@ -16,6 +16,6 @@
 		"pimple/pimple": "^3.0"
 	},
 	"autoload": {
-		"psr-4": { "PumaStudios": "src/" }
+		"psr-4": { "PumaStudios\\": "src/" }
 	}
 }
